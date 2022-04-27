@@ -73,7 +73,7 @@
 如果有人大费周章去隐藏一段代码是干什么的，他们可能在隐藏恶意代码（又或者他们不知道他们在干什么，又或者他们在显摆）。注意 `eval` 函数的使用，以及使用 `atob`/`btoa` 函数混淆的文本。例如：
 
 ```js
-eval(atob("YWxlcnQoIldoYXQgZGlkIEkganVzdCB0ZWxsIHlvdSBhYm91dCBydW5uaW5nIHJhbmRvbSBzY3JpcHRzPyIp"))
+eval(atob("YWxlcnQoIlx1NjIxMVx1NTIxYVx1OGI2Nlx1NTQ0YVx1NGY2MFx1NTIyYlx1OTY4Zlx1NGZiZlx1OGZkMFx1ODg0Y1x1ODExYVx1NjcyY1x1ZmYwMSIp"))
 ```
 
 相似地，像这样的代码（称作 [JSFuck][5]）差不多肯定是在隐藏它的功能了：
