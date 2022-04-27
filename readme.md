@@ -10,4 +10,4 @@
 [原始pdf文档](https://flameshare.azureedge.net/bondage-club/Aylea的新手教学中文版.pdf)
 
 ## 玩家安全
-[中文译文](https://github.com/Anonymous-WghrYkBGUjBt/bondage-club-chinese-docs/blob/main/bondage-college-wiki/player-safety.md) | [英文原文](https://github.com/Ben987/Bondage-College/wiki/Player-Safety#scripts--browser-extensions)
+[中文译文](https://github.com/Anonymous-WghrYkBGUjBt/bondage-club-chinese-docs/blob/main/bondage-college-wiki/player-safety.md) | [英文原文](https://github.com/Ben987/Bondage-College/wiki/Player-Safety)
