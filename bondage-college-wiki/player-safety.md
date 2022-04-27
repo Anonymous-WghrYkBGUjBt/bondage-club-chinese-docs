@@ -3,13 +3,13 @@
 
 ## 目录
 
-* [账号安全](#account-security)
-* [脚本与浏览器扩展程序](#scripts--browser-extensions)
-* [角色扮演的安全](#roleplay-safety)
+* [账号安全](#账号安全)
+* [脚本与浏览器扩展程序](#脚本与浏览器扩展程序)
+* [角色扮演的安全](#角色扮演的安全)
 
 ---
 
-## 账号安全 {#account-security}
+## 账号安全
 
 您的 Bondage Club 账号密码在服务器上是加密保存的，但这并不意味着您应该在保护账号信息上放松警惕。为了保证您的账号收到保护，您应该考虑以下几点：
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 脚本与浏览器扩展程序 {#scripts--browser-extensions}
+## 脚本与浏览器扩展程序
 
 如果您在游戏的多人联机区域逛过一段时间，您可能见过控制台用户、脚本房间或者针对游戏的浏览器扩展程序。本段落将介绍如何在使用自定义脚本时保持安全。
 
@@ -100,7 +100,7 @@ eval(atob("YWxlcnQoIldoYXQgZGlkIEkganVzdCB0ZWxsIHlvdSBhYm91dCBydW5uaW5nIHJhbmRvb
 * 
 ---
 
-## 角色扮演的安全 {#roleplay-safety}
+## 角色扮演的安全
 
 Bondage Club 游戏的核心是围绕角色扮演展开的。本页面不是角色扮演的指导，但是我们可以给您提供一些提示，以帮助您在和其他玩家角色扮演时营造安全的环境。
 
