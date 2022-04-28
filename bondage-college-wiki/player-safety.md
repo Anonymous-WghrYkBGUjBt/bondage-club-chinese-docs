@@ -97,7 +97,7 @@ eval(atob("YWxlcnQoIlx1NjIxMVx1NTIxYVx1OGI2Nlx1NTQ0YVx1NGY2MFx1NTIyYlx1OTY4Zlx1N
 * 如果您有编程经验，您可以阅读代码确定代码是否安全。
 * 确保您信任脚本的来源。不要运行随便什么人的 Bio 里找到的脚本。（您不仅应信任提供脚本的人，还应该确保他们了解脚本的功能和机制。
 * 如果您不确定脚本的功能或安全性，您可以在 [Bondage Projects Discord][4] 的编程频道里询问游戏的开发者（绿色昵称）。
-* 
+
 ---
 
 ## 角色扮演的安全
